@@ -15,13 +15,12 @@
 
 - :seedling: Currently learning React Native and making applications with it
 - :zap: In my free time, I like to play with the tasks on CodeWars to improve my JavaScript skills
+
 <img src="https://www.codewars.com/users/piknik1979/badges/large"  title="Codewars" alt="Codewars" width="270" height="100"/>&nbsp;
 - :mailbox:How to reach me: 
 
 ## tpikniczka@gmail.com
-
-
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -43,16 +42,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   
-
-  <img src="https://img.icons8.com/color/72/windows-10.png"  title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"  title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  
  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg"  title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg"  title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg"  title="Codepen" alt="Codepen" width="40" height="40"/>&nbsp;
 
  ---
 
@@ -60,15 +52,3 @@
 
 <!--
 **piknik1979/piknik1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
