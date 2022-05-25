@@ -54,7 +54,7 @@
  ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=piknik1979
+
 
 </div>
 
