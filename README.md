@@ -21,6 +21,7 @@
 ## tpikniczka@gmail.com
 
 
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -43,7 +44,7 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original-wordmark.svg"  title="Windows8" alt="Windows8" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/72/windows-10.png"  title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"  title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   
