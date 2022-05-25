@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello, I'm Thomas! 👋
 
 <!-- https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif
  -->
