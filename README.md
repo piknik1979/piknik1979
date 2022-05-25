@@ -50,5 +50,7 @@
 
 </div>
 
+Icons were created by https://github.com/devicons
+
 <!--
 **piknik1979/piknik1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
