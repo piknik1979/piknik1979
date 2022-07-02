@@ -13,7 +13,7 @@
 
 - :telescope: I’m studying and contributing to frontend and backend for building web applications
 
-- :seedling: Currently learning React Native and making applications with it
+- :seedling: Currently learning React and React Native and making applications with it
 - :zap: In my free time, I like to play with the tasks on CodeWars to improve my JavaScript skills
 
 <img src="https://www.codewars.com/users/piknik1979/badges/large"  title="Codewars" alt="Codewars" width="270" height="100"/>&nbsp;
