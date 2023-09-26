@@ -11,7 +11,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m studying and contributing to frontend and backend for building web applications
+- :telescope: I'm currently studying data engineering and also contributing to frontend and backend for building web applications
 
 - :seedling: Currently learning Python on the online Bootcamp. 
              I am also studying React and React Native and making applications with it
